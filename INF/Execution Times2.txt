@@ -1,0 +1,1530 @@
+Task1Job1 executes in Frame1 for 6.454500
+----------------------------------------
+Task1Job2 executes in Frame6 for 6.454500
+----------------------------------------
+Task1Job3 executes in Frame11 for 6.454500
+----------------------------------------
+Task1Job4 executes in Frame16 for 6.454500
+----------------------------------------
+Task1Job5 executes in Frame21 for 6.454500
+----------------------------------------
+Task1Job6 executes in Frame26 for 6.454500
+----------------------------------------
+Task1Job7 executes in Frame31 for 6.454500
+----------------------------------------
+Task1Job8 executes in Frame36 for 6.454500
+----------------------------------------
+Task1Job9 executes in Frame41 for 6.454500
+----------------------------------------
+Task1Job10 executes in Frame46 for 6.454500
+----------------------------------------
+Task1Job11 executes in Frame51 for 6.454500
+----------------------------------------
+Task1Job12 executes in Frame56 for 6.454500
+----------------------------------------
+Task1Job13 executes in Frame61 for 6.454500
+----------------------------------------
+Task1Job14 executes in Frame66 for 6.454500
+----------------------------------------
+Task1Job15 executes in Frame71 for 6.454500
+----------------------------------------
+Task1Job16 executes in Frame76 for 6.454500
+----------------------------------------
+Task1Job17 executes in Frame81 for 6.454500
+----------------------------------------
+Task1Job18 executes in Frame86 for 6.454500
+----------------------------------------
+Task1Job19 executes in Frame91 for 6.454500
+----------------------------------------
+Task1Job20 executes in Frame96 for 6.454500
+----------------------------------------
+Task1Job21 executes in Frame101 for 6.454500
+----------------------------------------
+Task1Job22 executes in Frame106 for 6.454500
+----------------------------------------
+Task1Job23 executes in Frame111 for 6.454500
+----------------------------------------
+Task1Job24 executes in Frame116 for 6.454500
+----------------------------------------
+Task2Job1 executes in Frame1 for 30.130300
+----------------------------------------
+Task2Job2 executes in Frame6 for 30.130300
+----------------------------------------
+Task2Job3 executes in Frame11 for 30.130300
+----------------------------------------
+Task2Job4 executes in Frame16 for 30.130300
+----------------------------------------
+Task2Job5 executes in Frame21 for 30.130300
+----------------------------------------
+Task2Job6 executes in Frame26 for 30.130300
+----------------------------------------
+Task2Job7 executes in Frame31 for 30.130300
+----------------------------------------
+Task2Job8 executes in Frame36 for 30.130300
+----------------------------------------
+Task2Job9 executes in Frame41 for 30.130300
+----------------------------------------
+Task2Job10 executes in Frame46 for 30.130300
+----------------------------------------
+Task2Job11 executes in Frame51 for 30.130300
+----------------------------------------
+Task2Job12 executes in Frame56 for 30.130300
+----------------------------------------
+Task2Job13 executes in Frame61 for 30.130300
+----------------------------------------
+Task2Job14 executes in Frame66 for 30.130300
+----------------------------------------
+Task2Job15 executes in Frame71 for 30.130300
+----------------------------------------
+Task2Job16 executes in Frame76 for 30.130300
+----------------------------------------
+Task2Job17 executes in Frame81 for 30.130300
+----------------------------------------
+Task2Job18 executes in Frame86 for 30.130300
+----------------------------------------
+Task2Job19 executes in Frame91 for 30.130300
+----------------------------------------
+Task2Job20 executes in Frame96 for 30.130300
+----------------------------------------
+Task2Job21 executes in Frame101 for 30.130300
+----------------------------------------
+Task2Job22 executes in Frame106 for 30.130300
+----------------------------------------
+Task2Job23 executes in Frame111 for 30.130300
+----------------------------------------
+Task2Job24 executes in Frame116 for 30.130300
+----------------------------------------
+Task3Job1 executes in Frame1 for 0.343700
+----------------------------------------
+Task3Job2 executes in Frame6 for 0.343700
+----------------------------------------
+Task3Job3 executes in Frame11 for 0.343700
+----------------------------------------
+Task3Job4 executes in Frame16 for 0.343700
+----------------------------------------
+Task3Job5 executes in Frame21 for 0.343700
+----------------------------------------
+Task3Job6 executes in Frame26 for 0.343700
+----------------------------------------
+Task3Job7 executes in Frame31 for 0.343700
+----------------------------------------
+Task3Job8 executes in Frame36 for 0.343700
+----------------------------------------
+Task3Job9 executes in Frame41 for 0.343700
+----------------------------------------
+Task3Job10 executes in Frame46 for 0.343700
+----------------------------------------
+Task3Job11 executes in Frame51 for 0.343700
+----------------------------------------
+Task3Job12 executes in Frame56 for 0.343700
+----------------------------------------
+Task3Job13 executes in Frame61 for 0.343700
+----------------------------------------
+Task3Job14 executes in Frame66 for 0.343700
+----------------------------------------
+Task3Job15 executes in Frame71 for 0.343700
+----------------------------------------
+Task3Job16 executes in Frame76 for 0.343700
+----------------------------------------
+Task3Job17 executes in Frame81 for 0.343700
+----------------------------------------
+Task3Job18 executes in Frame86 for 0.343700
+----------------------------------------
+Task3Job19 executes in Frame91 for 0.343700
+----------------------------------------
+Task3Job20 executes in Frame96 for 0.343700
+----------------------------------------
+Task3Job21 executes in Frame101 for 0.343700
+----------------------------------------
+Task3Job22 executes in Frame106 for 0.343700
+----------------------------------------
+Task3Job23 executes in Frame111 for 0.343700
+----------------------------------------
+Task3Job24 executes in Frame116 for 0.343700
+----------------------------------------
+Task4Job1 executes in Frame1 for 0.102200
+----------------------------------------
+Task4Job2 executes in Frame6 for 0.102200
+----------------------------------------
+Task4Job3 executes in Frame11 for 0.102200
+----------------------------------------
+Task4Job4 executes in Frame16 for 0.102200
+----------------------------------------
+Task4Job5 executes in Frame21 for 0.102200
+----------------------------------------
+Task4Job6 executes in Frame26 for 0.102200
+----------------------------------------
+Task4Job7 executes in Frame31 for 0.102200
+----------------------------------------
+Task4Job8 executes in Frame36 for 0.102200
+----------------------------------------
+Task4Job9 executes in Frame41 for 0.102200
+----------------------------------------
+Task4Job10 executes in Frame46 for 0.102200
+----------------------------------------
+Task4Job11 executes in Frame51 for 0.102200
+----------------------------------------
+Task4Job12 executes in Frame56 for 0.102200
+----------------------------------------
+Task4Job13 executes in Frame61 for 0.102200
+----------------------------------------
+Task4Job14 executes in Frame66 for 0.102200
+----------------------------------------
+Task4Job15 executes in Frame71 for 0.102200
+----------------------------------------
+Task4Job16 executes in Frame76 for 0.102200
+----------------------------------------
+Task4Job17 executes in Frame81 for 0.102200
+----------------------------------------
+Task4Job18 executes in Frame86 for 0.102200
+----------------------------------------
+Task4Job19 executes in Frame91 for 0.102200
+----------------------------------------
+Task4Job20 executes in Frame96 for 0.102200
+----------------------------------------
+Task4Job21 executes in Frame101 for 0.102200
+----------------------------------------
+Task4Job22 executes in Frame106 for 0.102200
+----------------------------------------
+Task4Job23 executes in Frame111 for 0.102200
+----------------------------------------
+Task4Job24 executes in Frame116 for 0.102200
+----------------------------------------
+Task5Job1 executes in Frame1 for 5.734900
+----------------------------------------
+Task5Job2 executes in Frame6 for 5.734900
+----------------------------------------
+Task5Job3 executes in Frame11 for 5.734900
+----------------------------------------
+Task5Job4 executes in Frame16 for 5.734900
+----------------------------------------
+Task5Job5 executes in Frame21 for 5.734900
+----------------------------------------
+Task5Job6 executes in Frame26 for 5.734900
+----------------------------------------
+Task5Job7 executes in Frame31 for 5.734900
+----------------------------------------
+Task5Job8 executes in Frame36 for 5.734900
+----------------------------------------
+Task5Job9 executes in Frame41 for 5.734900
+----------------------------------------
+Task5Job10 executes in Frame46 for 5.734900
+----------------------------------------
+Task5Job11 executes in Frame51 for 5.734900
+----------------------------------------
+Task5Job12 executes in Frame56 for 5.734900
+----------------------------------------
+Task5Job13 executes in Frame61 for 5.734900
+----------------------------------------
+Task5Job14 executes in Frame66 for 5.734900
+----------------------------------------
+Task5Job15 executes in Frame71 for 5.734900
+----------------------------------------
+Task5Job16 executes in Frame76 for 5.734900
+----------------------------------------
+Task5Job17 executes in Frame81 for 5.734900
+----------------------------------------
+Task5Job18 executes in Frame86 for 5.734900
+----------------------------------------
+Task5Job19 executes in Frame91 for 5.734900
+----------------------------------------
+Task5Job20 executes in Frame96 for 5.734900
+----------------------------------------
+Task5Job21 executes in Frame101 for 5.734900
+----------------------------------------
+Task5Job22 executes in Frame106 for 5.734900
+----------------------------------------
+Task5Job23 executes in Frame111 for 5.734900
+----------------------------------------
+Task5Job24 executes in Frame116 for 5.734900
+----------------------------------------
+Task6Job1 executes in Frame1 for 5.755700
+----------------------------------------
+Task6Job2 executes in Frame6 for 5.755700
+----------------------------------------
+Task6Job3 executes in Frame11 for 5.755700
+----------------------------------------
+Task6Job4 executes in Frame16 for 5.755700
+----------------------------------------
+Task6Job5 executes in Frame21 for 5.755700
+----------------------------------------
+Task6Job6 executes in Frame26 for 5.755700
+----------------------------------------
+Task6Job7 executes in Frame31 for 5.755700
+----------------------------------------
+Task6Job8 executes in Frame36 for 5.755700
+----------------------------------------
+Task6Job9 executes in Frame41 for 5.755700
+----------------------------------------
+Task6Job10 executes in Frame46 for 5.755700
+----------------------------------------
+Task6Job11 executes in Frame51 for 5.755700
+----------------------------------------
+Task6Job12 executes in Frame56 for 5.755700
+----------------------------------------
+Task6Job13 executes in Frame61 for 5.755700
+----------------------------------------
+Task6Job14 executes in Frame66 for 5.755700
+----------------------------------------
+Task6Job15 executes in Frame71 for 5.755700
+----------------------------------------
+Task6Job16 executes in Frame76 for 5.755700
+----------------------------------------
+Task6Job17 executes in Frame81 for 5.755700
+----------------------------------------
+Task6Job18 executes in Frame86 for 5.755700
+----------------------------------------
+Task6Job19 executes in Frame91 for 5.755700
+----------------------------------------
+Task6Job20 executes in Frame96 for 5.755700
+----------------------------------------
+Task6Job21 executes in Frame101 for 5.755700
+----------------------------------------
+Task6Job22 executes in Frame106 for 5.755700
+----------------------------------------
+Task6Job23 executes in Frame111 for 5.755700
+----------------------------------------
+Task6Job24 executes in Frame116 for 5.755700
+----------------------------------------
+Task7Job1 executes in Frame1 for 1.478700
+Task7Job1 executes in Frame2 for 4.318700
+----------------------------------------
+Task7Job2 executes in Frame6 for 1.478700
+Task7Job2 executes in Frame7 for 4.318700
+----------------------------------------
+Task7Job3 executes in Frame11 for 1.478700
+Task7Job3 executes in Frame12 for 4.318700
+----------------------------------------
+Task7Job4 executes in Frame16 for 1.478700
+Task7Job4 executes in Frame17 for 4.318700
+----------------------------------------
+Task7Job5 executes in Frame21 for 1.478700
+Task7Job5 executes in Frame22 for 4.318700
+----------------------------------------
+Task7Job6 executes in Frame26 for 1.478700
+Task7Job6 executes in Frame27 for 4.318700
+----------------------------------------
+Task7Job7 executes in Frame31 for 1.478700
+Task7Job7 executes in Frame32 for 4.318700
+----------------------------------------
+Task7Job8 executes in Frame36 for 1.478700
+Task7Job8 executes in Frame37 for 4.318700
+----------------------------------------
+Task7Job9 executes in Frame41 for 1.478700
+Task7Job9 executes in Frame42 for 4.318700
+----------------------------------------
+Task7Job10 executes in Frame46 for 1.478700
+Task7Job10 executes in Frame47 for 4.318700
+----------------------------------------
+Task7Job11 executes in Frame51 for 1.478700
+Task7Job11 executes in Frame52 for 4.318700
+----------------------------------------
+Task7Job12 executes in Frame56 for 1.478700
+Task7Job12 executes in Frame57 for 4.318700
+----------------------------------------
+Task7Job13 executes in Frame61 for 1.478700
+Task7Job13 executes in Frame62 for 4.318700
+----------------------------------------
+Task7Job14 executes in Frame66 for 1.478700
+Task7Job14 executes in Frame67 for 4.318700
+----------------------------------------
+Task7Job15 executes in Frame71 for 1.478700
+Task7Job15 executes in Frame72 for 4.318700
+----------------------------------------
+Task7Job16 executes in Frame76 for 1.478700
+Task7Job16 executes in Frame77 for 4.318700
+----------------------------------------
+Task7Job17 executes in Frame81 for 1.478700
+Task7Job17 executes in Frame82 for 4.318700
+----------------------------------------
+Task7Job18 executes in Frame86 for 1.478700
+Task7Job18 executes in Frame87 for 4.318700
+----------------------------------------
+Task7Job19 executes in Frame91 for 1.478700
+Task7Job19 executes in Frame92 for 4.318700
+----------------------------------------
+Task7Job20 executes in Frame96 for 1.478700
+Task7Job20 executes in Frame97 for 4.318700
+----------------------------------------
+Task7Job21 executes in Frame101 for 1.478700
+Task7Job21 executes in Frame102 for 4.318700
+----------------------------------------
+Task7Job22 executes in Frame106 for 1.478700
+Task7Job22 executes in Frame107 for 4.318700
+----------------------------------------
+Task7Job23 executes in Frame111 for 1.478700
+Task7Job23 executes in Frame112 for 4.318700
+----------------------------------------
+Task7Job24 executes in Frame116 for 1.478700
+Task7Job24 executes in Frame117 for 4.318700
+----------------------------------------
+Task8Job1 executes in Frame2 for 5.880700
+----------------------------------------
+Task8Job2 executes in Frame7 for 5.880700
+----------------------------------------
+Task8Job3 executes in Frame12 for 5.880700
+----------------------------------------
+Task8Job4 executes in Frame17 for 5.880700
+----------------------------------------
+Task8Job5 executes in Frame22 for 5.880700
+----------------------------------------
+Task8Job6 executes in Frame27 for 5.880700
+----------------------------------------
+Task8Job7 executes in Frame32 for 5.880700
+----------------------------------------
+Task8Job8 executes in Frame37 for 5.880700
+----------------------------------------
+Task8Job9 executes in Frame42 for 5.880700
+----------------------------------------
+Task8Job10 executes in Frame47 for 5.880700
+----------------------------------------
+Task8Job11 executes in Frame52 for 5.880700
+----------------------------------------
+Task8Job12 executes in Frame57 for 5.880700
+----------------------------------------
+Task8Job13 executes in Frame62 for 5.880700
+----------------------------------------
+Task8Job14 executes in Frame67 for 5.880700
+----------------------------------------
+Task8Job15 executes in Frame72 for 5.880700
+----------------------------------------
+Task8Job16 executes in Frame77 for 5.880700
+----------------------------------------
+Task8Job17 executes in Frame82 for 5.880700
+----------------------------------------
+Task8Job18 executes in Frame87 for 5.880700
+----------------------------------------
+Task8Job19 executes in Frame92 for 5.880700
+----------------------------------------
+Task8Job20 executes in Frame97 for 5.880700
+----------------------------------------
+Task8Job21 executes in Frame102 for 5.880700
+----------------------------------------
+Task8Job22 executes in Frame107 for 5.880700
+----------------------------------------
+Task8Job23 executes in Frame112 for 5.880700
+----------------------------------------
+Task8Job24 executes in Frame117 for 5.880700
+----------------------------------------
+Task9Job1 executes in Frame2 for 6.047200
+----------------------------------------
+Task9Job2 executes in Frame7 for 6.047200
+----------------------------------------
+Task9Job3 executes in Frame12 for 6.047200
+----------------------------------------
+Task9Job4 executes in Frame17 for 6.047200
+----------------------------------------
+Task9Job5 executes in Frame22 for 6.047200
+----------------------------------------
+Task9Job6 executes in Frame27 for 6.047200
+----------------------------------------
+Task9Job7 executes in Frame32 for 6.047200
+----------------------------------------
+Task9Job8 executes in Frame37 for 6.047200
+----------------------------------------
+Task9Job9 executes in Frame42 for 6.047200
+----------------------------------------
+Task9Job10 executes in Frame47 for 6.047200
+----------------------------------------
+Task9Job11 executes in Frame52 for 6.047200
+----------------------------------------
+Task9Job12 executes in Frame57 for 6.047200
+----------------------------------------
+Task9Job13 executes in Frame62 for 6.047200
+----------------------------------------
+Task9Job14 executes in Frame67 for 6.047200
+----------------------------------------
+Task9Job15 executes in Frame72 for 6.047200
+----------------------------------------
+Task9Job16 executes in Frame77 for 6.047200
+----------------------------------------
+Task9Job17 executes in Frame82 for 6.047200
+----------------------------------------
+Task9Job18 executes in Frame87 for 6.047200
+----------------------------------------
+Task9Job19 executes in Frame92 for 6.047200
+----------------------------------------
+Task9Job20 executes in Frame97 for 6.047200
+----------------------------------------
+Task9Job21 executes in Frame102 for 6.047200
+----------------------------------------
+Task9Job22 executes in Frame107 for 6.047200
+----------------------------------------
+Task9Job23 executes in Frame112 for 6.047200
+----------------------------------------
+Task9Job24 executes in Frame117 for 6.047200
+----------------------------------------
+Task10Job1 executes in Frame2 for 4.307100
+----------------------------------------
+Task10Job2 executes in Frame7 for 4.307100
+----------------------------------------
+Task10Job3 executes in Frame12 for 4.307100
+----------------------------------------
+Task10Job4 executes in Frame17 for 4.307100
+----------------------------------------
+Task10Job5 executes in Frame22 for 4.307100
+----------------------------------------
+Task10Job6 executes in Frame27 for 4.307100
+----------------------------------------
+Task10Job7 executes in Frame32 for 4.307100
+----------------------------------------
+Task10Job8 executes in Frame37 for 4.307100
+----------------------------------------
+Task10Job9 executes in Frame42 for 4.307100
+----------------------------------------
+Task10Job10 executes in Frame47 for 4.307100
+----------------------------------------
+Task10Job11 executes in Frame52 for 4.307100
+----------------------------------------
+Task10Job12 executes in Frame57 for 4.307100
+----------------------------------------
+Task10Job13 executes in Frame62 for 4.307100
+----------------------------------------
+Task10Job14 executes in Frame67 for 4.307100
+----------------------------------------
+Task10Job15 executes in Frame72 for 4.307100
+----------------------------------------
+Task10Job16 executes in Frame77 for 4.307100
+----------------------------------------
+Task10Job17 executes in Frame82 for 4.307100
+----------------------------------------
+Task10Job18 executes in Frame87 for 4.307100
+----------------------------------------
+Task10Job19 executes in Frame92 for 4.307100
+----------------------------------------
+Task10Job20 executes in Frame97 for 4.307100
+----------------------------------------
+Task10Job21 executes in Frame102 for 4.307100
+----------------------------------------
+Task10Job22 executes in Frame107 for 4.307100
+----------------------------------------
+Task10Job23 executes in Frame112 for 4.307100
+----------------------------------------
+Task10Job24 executes in Frame117 for 4.307100
+----------------------------------------
+Task11Job1 executes in Frame2 for 7.767200
+----------------------------------------
+Task11Job2 executes in Frame7 for 7.767200
+----------------------------------------
+Task11Job3 executes in Frame12 for 7.767200
+----------------------------------------
+Task11Job4 executes in Frame17 for 7.767200
+----------------------------------------
+Task11Job5 executes in Frame22 for 7.767200
+----------------------------------------
+Task11Job6 executes in Frame27 for 7.767200
+----------------------------------------
+Task11Job7 executes in Frame32 for 7.767200
+----------------------------------------
+Task11Job8 executes in Frame37 for 7.767200
+----------------------------------------
+Task11Job9 executes in Frame42 for 7.767200
+----------------------------------------
+Task11Job10 executes in Frame47 for 7.767200
+----------------------------------------
+Task11Job11 executes in Frame52 for 7.767200
+----------------------------------------
+Task11Job12 executes in Frame57 for 7.767200
+----------------------------------------
+Task11Job13 executes in Frame62 for 7.767200
+----------------------------------------
+Task11Job14 executes in Frame67 for 7.767200
+----------------------------------------
+Task11Job15 executes in Frame72 for 7.767200
+----------------------------------------
+Task11Job16 executes in Frame77 for 7.767200
+----------------------------------------
+Task11Job17 executes in Frame82 for 7.767200
+----------------------------------------
+Task11Job18 executes in Frame87 for 7.767200
+----------------------------------------
+Task11Job19 executes in Frame92 for 7.767200
+----------------------------------------
+Task11Job20 executes in Frame97 for 7.767200
+----------------------------------------
+Task11Job21 executes in Frame102 for 7.767200
+----------------------------------------
+Task11Job22 executes in Frame107 for 7.767200
+----------------------------------------
+Task11Job23 executes in Frame112 for 7.767200
+----------------------------------------
+Task11Job24 executes in Frame117 for 7.767200
+----------------------------------------
+Task12Job1 executes in Frame2 for 14.687500
+----------------------------------------
+Task12Job2 executes in Frame7 for 14.687500
+----------------------------------------
+Task12Job3 executes in Frame12 for 14.687500
+----------------------------------------
+Task12Job4 executes in Frame17 for 14.687500
+----------------------------------------
+Task12Job5 executes in Frame22 for 14.687500
+----------------------------------------
+Task12Job6 executes in Frame27 for 14.687500
+----------------------------------------
+Task12Job7 executes in Frame32 for 14.687500
+----------------------------------------
+Task12Job8 executes in Frame37 for 14.687500
+----------------------------------------
+Task12Job9 executes in Frame42 for 14.687500
+----------------------------------------
+Task12Job10 executes in Frame47 for 14.687500
+----------------------------------------
+Task12Job11 executes in Frame52 for 14.687500
+----------------------------------------
+Task12Job12 executes in Frame57 for 14.687500
+----------------------------------------
+Task12Job13 executes in Frame62 for 14.687500
+----------------------------------------
+Task12Job14 executes in Frame67 for 14.687500
+----------------------------------------
+Task12Job15 executes in Frame72 for 14.687500
+----------------------------------------
+Task12Job16 executes in Frame77 for 14.687500
+----------------------------------------
+Task12Job17 executes in Frame82 for 14.687500
+----------------------------------------
+Task12Job18 executes in Frame87 for 14.687500
+----------------------------------------
+Task12Job19 executes in Frame92 for 14.687500
+----------------------------------------
+Task12Job20 executes in Frame97 for 14.687500
+----------------------------------------
+Task12Job21 executes in Frame102 for 14.687500
+----------------------------------------
+Task12Job22 executes in Frame107 for 14.687500
+----------------------------------------
+Task12Job23 executes in Frame112 for 14.687500
+----------------------------------------
+Task12Job24 executes in Frame117 for 14.687500
+----------------------------------------
+Task13Job1 executes in Frame2 for 6.991600
+Task13Job1 executes in Frame3 for 0.191400
+----------------------------------------
+Task13Job2 executes in Frame7 for 6.991600
+Task13Job2 executes in Frame8 for 0.191400
+----------------------------------------
+Task13Job3 executes in Frame12 for 6.991600
+Task13Job3 executes in Frame13 for 0.191400
+----------------------------------------
+Task13Job4 executes in Frame17 for 6.991600
+Task13Job4 executes in Frame18 for 0.191400
+----------------------------------------
+Task13Job5 executes in Frame22 for 6.991600
+Task13Job5 executes in Frame23 for 0.191400
+----------------------------------------
+Task13Job6 executes in Frame27 for 6.991600
+Task13Job6 executes in Frame28 for 0.191400
+----------------------------------------
+Task13Job7 executes in Frame32 for 6.991600
+Task13Job7 executes in Frame33 for 0.191400
+----------------------------------------
+Task13Job8 executes in Frame37 for 6.991600
+Task13Job8 executes in Frame38 for 0.191400
+----------------------------------------
+Task13Job9 executes in Frame42 for 6.991600
+Task13Job9 executes in Frame43 for 0.191400
+----------------------------------------
+Task13Job10 executes in Frame47 for 6.991600
+Task13Job10 executes in Frame48 for 0.191400
+----------------------------------------
+Task13Job11 executes in Frame52 for 6.991600
+Task13Job11 executes in Frame53 for 0.191400
+----------------------------------------
+Task13Job12 executes in Frame57 for 6.991600
+Task13Job12 executes in Frame58 for 0.191400
+----------------------------------------
+Task13Job13 executes in Frame62 for 6.991600
+Task13Job13 executes in Frame63 for 0.191400
+----------------------------------------
+Task13Job14 executes in Frame67 for 6.991600
+Task13Job14 executes in Frame68 for 0.191400
+----------------------------------------
+Task13Job15 executes in Frame72 for 6.991600
+Task13Job15 executes in Frame73 for 0.191400
+----------------------------------------
+Task13Job16 executes in Frame77 for 6.991600
+Task13Job16 executes in Frame78 for 0.191400
+----------------------------------------
+Task13Job17 executes in Frame82 for 6.991600
+Task13Job17 executes in Frame83 for 0.191400
+----------------------------------------
+Task13Job18 executes in Frame87 for 6.991600
+Task13Job18 executes in Frame88 for 0.191400
+----------------------------------------
+Task13Job19 executes in Frame92 for 6.991600
+Task13Job19 executes in Frame93 for 0.191400
+----------------------------------------
+Task13Job20 executes in Frame97 for 6.991600
+Task13Job20 executes in Frame98 for 0.191400
+----------------------------------------
+Task13Job21 executes in Frame102 for 6.991600
+Task13Job21 executes in Frame103 for 0.191400
+----------------------------------------
+Task13Job22 executes in Frame107 for 6.991600
+Task13Job22 executes in Frame108 for 0.191400
+----------------------------------------
+Task13Job23 executes in Frame112 for 6.991600
+Task13Job23 executes in Frame113 for 0.191400
+----------------------------------------
+Task13Job24 executes in Frame117 for 6.991600
+Task13Job24 executes in Frame118 for 0.191400
+----------------------------------------
+Task14Job1 executes in Frame3 for 7.399900
+----------------------------------------
+Task14Job2 executes in Frame8 for 7.399900
+----------------------------------------
+Task14Job3 executes in Frame13 for 7.399900
+----------------------------------------
+Task14Job4 executes in Frame18 for 7.399900
+----------------------------------------
+Task14Job5 executes in Frame23 for 7.399900
+----------------------------------------
+Task14Job6 executes in Frame28 for 7.399900
+----------------------------------------
+Task14Job7 executes in Frame33 for 7.399900
+----------------------------------------
+Task14Job8 executes in Frame38 for 7.399900
+----------------------------------------
+Task14Job9 executes in Frame43 for 7.399900
+----------------------------------------
+Task14Job10 executes in Frame48 for 7.399900
+----------------------------------------
+Task14Job11 executes in Frame53 for 7.399900
+----------------------------------------
+Task14Job12 executes in Frame58 for 7.399900
+----------------------------------------
+Task14Job13 executes in Frame63 for 7.399900
+----------------------------------------
+Task14Job14 executes in Frame68 for 7.399900
+----------------------------------------
+Task14Job15 executes in Frame73 for 7.399900
+----------------------------------------
+Task14Job16 executes in Frame78 for 7.399900
+----------------------------------------
+Task14Job17 executes in Frame83 for 7.399900
+----------------------------------------
+Task14Job18 executes in Frame88 for 7.399900
+----------------------------------------
+Task14Job19 executes in Frame93 for 7.399900
+----------------------------------------
+Task14Job20 executes in Frame98 for 7.399900
+----------------------------------------
+Task14Job21 executes in Frame103 for 7.399900
+----------------------------------------
+Task14Job22 executes in Frame108 for 7.399900
+----------------------------------------
+Task14Job23 executes in Frame113 for 7.399900
+----------------------------------------
+Task14Job24 executes in Frame118 for 7.399900
+----------------------------------------
+Task15Job1 executes in Frame3 for 7.833700
+----------------------------------------
+Task15Job2 executes in Frame8 for 7.833700
+----------------------------------------
+Task15Job3 executes in Frame13 for 7.833700
+----------------------------------------
+Task15Job4 executes in Frame18 for 7.833700
+----------------------------------------
+Task15Job5 executes in Frame23 for 7.833700
+----------------------------------------
+Task15Job6 executes in Frame28 for 7.833700
+----------------------------------------
+Task15Job7 executes in Frame33 for 7.833700
+----------------------------------------
+Task15Job8 executes in Frame38 for 7.833700
+----------------------------------------
+Task15Job9 executes in Frame43 for 7.833700
+----------------------------------------
+Task15Job10 executes in Frame48 for 7.833700
+----------------------------------------
+Task15Job11 executes in Frame53 for 7.833700
+----------------------------------------
+Task15Job12 executes in Frame58 for 7.833700
+----------------------------------------
+Task15Job13 executes in Frame63 for 7.833700
+----------------------------------------
+Task15Job14 executes in Frame68 for 7.833700
+----------------------------------------
+Task15Job15 executes in Frame73 for 7.833700
+----------------------------------------
+Task15Job16 executes in Frame78 for 7.833700
+----------------------------------------
+Task15Job17 executes in Frame83 for 7.833700
+----------------------------------------
+Task15Job18 executes in Frame88 for 7.833700
+----------------------------------------
+Task15Job19 executes in Frame93 for 7.833700
+----------------------------------------
+Task15Job20 executes in Frame98 for 7.833700
+----------------------------------------
+Task15Job21 executes in Frame103 for 7.833700
+----------------------------------------
+Task15Job22 executes in Frame108 for 7.833700
+----------------------------------------
+Task15Job23 executes in Frame113 for 7.833700
+----------------------------------------
+Task15Job24 executes in Frame118 for 7.833700
+----------------------------------------
+Task16Job1 executes in Frame3 for 8.701200
+----------------------------------------
+Task16Job2 executes in Frame8 for 8.701200
+----------------------------------------
+Task16Job3 executes in Frame13 for 8.701200
+----------------------------------------
+Task16Job4 executes in Frame18 for 8.701200
+----------------------------------------
+Task16Job5 executes in Frame23 for 8.701200
+----------------------------------------
+Task16Job6 executes in Frame28 for 8.701200
+----------------------------------------
+Task16Job7 executes in Frame33 for 8.701200
+----------------------------------------
+Task16Job8 executes in Frame38 for 8.701200
+----------------------------------------
+Task16Job9 executes in Frame43 for 8.701200
+----------------------------------------
+Task16Job10 executes in Frame48 for 8.701200
+----------------------------------------
+Task16Job11 executes in Frame53 for 8.701200
+----------------------------------------
+Task16Job12 executes in Frame58 for 8.701200
+----------------------------------------
+Task16Job13 executes in Frame63 for 8.701200
+----------------------------------------
+Task16Job14 executes in Frame68 for 8.701200
+----------------------------------------
+Task16Job15 executes in Frame73 for 8.701200
+----------------------------------------
+Task16Job16 executes in Frame78 for 8.701200
+----------------------------------------
+Task16Job17 executes in Frame83 for 8.701200
+----------------------------------------
+Task16Job18 executes in Frame88 for 8.701200
+----------------------------------------
+Task16Job19 executes in Frame93 for 8.701200
+----------------------------------------
+Task16Job20 executes in Frame98 for 8.701200
+----------------------------------------
+Task16Job21 executes in Frame103 for 8.701200
+----------------------------------------
+Task16Job22 executes in Frame108 for 8.701200
+----------------------------------------
+Task16Job23 executes in Frame113 for 8.701200
+----------------------------------------
+Task16Job24 executes in Frame118 for 8.701200
+----------------------------------------
+Task17Job1 executes in Frame3 for 8.701200
+----------------------------------------
+Task17Job2 executes in Frame8 for 8.701200
+----------------------------------------
+Task17Job3 executes in Frame13 for 8.701200
+----------------------------------------
+Task17Job4 executes in Frame18 for 8.701200
+----------------------------------------
+Task17Job5 executes in Frame23 for 8.701200
+----------------------------------------
+Task17Job6 executes in Frame28 for 8.701200
+----------------------------------------
+Task17Job7 executes in Frame33 for 8.701200
+----------------------------------------
+Task17Job8 executes in Frame38 for 8.701200
+----------------------------------------
+Task17Job9 executes in Frame43 for 8.701200
+----------------------------------------
+Task17Job10 executes in Frame48 for 8.701200
+----------------------------------------
+Task17Job11 executes in Frame53 for 8.701200
+----------------------------------------
+Task17Job12 executes in Frame58 for 8.701200
+----------------------------------------
+Task17Job13 executes in Frame63 for 8.701200
+----------------------------------------
+Task17Job14 executes in Frame68 for 8.701200
+----------------------------------------
+Task17Job15 executes in Frame73 for 8.701200
+----------------------------------------
+Task17Job16 executes in Frame78 for 8.701200
+----------------------------------------
+Task17Job17 executes in Frame83 for 8.701200
+----------------------------------------
+Task17Job18 executes in Frame88 for 8.701200
+----------------------------------------
+Task17Job19 executes in Frame93 for 8.701200
+----------------------------------------
+Task17Job20 executes in Frame98 for 8.701200
+----------------------------------------
+Task17Job21 executes in Frame103 for 8.701200
+----------------------------------------
+Task17Job22 executes in Frame108 for 8.701200
+----------------------------------------
+Task17Job23 executes in Frame113 for 8.701200
+----------------------------------------
+Task17Job24 executes in Frame118 for 8.701200
+----------------------------------------
+Task18Job1 executes in Frame3 for 8.126400
+----------------------------------------
+Task18Job2 executes in Frame8 for 8.126400
+----------------------------------------
+Task18Job3 executes in Frame13 for 8.126400
+----------------------------------------
+Task18Job4 executes in Frame18 for 8.126400
+----------------------------------------
+Task18Job5 executes in Frame23 for 8.126400
+----------------------------------------
+Task18Job6 executes in Frame28 for 8.126400
+----------------------------------------
+Task18Job7 executes in Frame33 for 8.126400
+----------------------------------------
+Task18Job8 executes in Frame38 for 8.126400
+----------------------------------------
+Task18Job9 executes in Frame43 for 8.126400
+----------------------------------------
+Task18Job10 executes in Frame48 for 8.126400
+----------------------------------------
+Task18Job11 executes in Frame53 for 8.126400
+----------------------------------------
+Task18Job12 executes in Frame58 for 8.126400
+----------------------------------------
+Task18Job13 executes in Frame63 for 8.126400
+----------------------------------------
+Task18Job14 executes in Frame68 for 8.126400
+----------------------------------------
+Task18Job15 executes in Frame73 for 8.126400
+----------------------------------------
+Task18Job16 executes in Frame78 for 8.126400
+----------------------------------------
+Task18Job17 executes in Frame83 for 8.126400
+----------------------------------------
+Task18Job18 executes in Frame88 for 8.126400
+----------------------------------------
+Task18Job19 executes in Frame93 for 8.126400
+----------------------------------------
+Task18Job20 executes in Frame98 for 8.126400
+----------------------------------------
+Task18Job21 executes in Frame103 for 8.126400
+----------------------------------------
+Task18Job22 executes in Frame108 for 8.126400
+----------------------------------------
+Task18Job23 executes in Frame113 for 8.126400
+----------------------------------------
+Task18Job24 executes in Frame118 for 8.126400
+----------------------------------------
+Task19Job1 executes in Frame3 for 8.126400
+----------------------------------------
+Task19Job2 executes in Frame8 for 8.126400
+----------------------------------------
+Task19Job3 executes in Frame13 for 8.126400
+----------------------------------------
+Task19Job4 executes in Frame18 for 8.126400
+----------------------------------------
+Task19Job5 executes in Frame23 for 8.126400
+----------------------------------------
+Task19Job6 executes in Frame28 for 8.126400
+----------------------------------------
+Task19Job7 executes in Frame33 for 8.126400
+----------------------------------------
+Task19Job8 executes in Frame38 for 8.126400
+----------------------------------------
+Task19Job9 executes in Frame43 for 8.126400
+----------------------------------------
+Task19Job10 executes in Frame48 for 8.126400
+----------------------------------------
+Task19Job11 executes in Frame53 for 8.126400
+----------------------------------------
+Task19Job12 executes in Frame58 for 8.126400
+----------------------------------------
+Task19Job13 executes in Frame63 for 8.126400
+----------------------------------------
+Task19Job14 executes in Frame68 for 8.126400
+----------------------------------------
+Task19Job15 executes in Frame73 for 8.126400
+----------------------------------------
+Task19Job16 executes in Frame78 for 8.126400
+----------------------------------------
+Task19Job17 executes in Frame83 for 8.126400
+----------------------------------------
+Task19Job18 executes in Frame88 for 8.126400
+----------------------------------------
+Task19Job19 executes in Frame93 for 8.126400
+----------------------------------------
+Task19Job20 executes in Frame98 for 8.126400
+----------------------------------------
+Task19Job21 executes in Frame103 for 8.126400
+----------------------------------------
+Task19Job22 executes in Frame108 for 8.126400
+----------------------------------------
+Task19Job23 executes in Frame113 for 8.126400
+----------------------------------------
+Task19Job24 executes in Frame118 for 8.126400
+----------------------------------------
+Task20Job1 executes in Frame3 for 0.919800
+Task20Job1 executes in Frame4 for 7.561700
+----------------------------------------
+Task20Job2 executes in Frame8 for 0.919800
+Task20Job2 executes in Frame9 for 7.561700
+----------------------------------------
+Task20Job3 executes in Frame13 for 0.919800
+Task20Job3 executes in Frame14 for 7.561700
+----------------------------------------
+Task20Job4 executes in Frame18 for 0.919800
+Task20Job4 executes in Frame19 for 7.561700
+----------------------------------------
+Task20Job5 executes in Frame23 for 0.919800
+Task20Job5 executes in Frame24 for 7.561700
+----------------------------------------
+Task20Job6 executes in Frame28 for 0.919800
+Task20Job6 executes in Frame29 for 7.561700
+----------------------------------------
+Task20Job7 executes in Frame33 for 0.919800
+Task20Job7 executes in Frame34 for 7.561700
+----------------------------------------
+Task20Job8 executes in Frame38 for 0.919800
+Task20Job8 executes in Frame39 for 7.561700
+----------------------------------------
+Task20Job9 executes in Frame43 for 0.919800
+Task20Job9 executes in Frame44 for 7.561700
+----------------------------------------
+Task20Job10 executes in Frame48 for 0.919800
+Task20Job10 executes in Frame49 for 7.561700
+----------------------------------------
+Task20Job11 executes in Frame53 for 0.919800
+Task20Job11 executes in Frame54 for 7.561700
+----------------------------------------
+Task20Job12 executes in Frame58 for 0.919800
+Task20Job12 executes in Frame59 for 7.561700
+----------------------------------------
+Task20Job13 executes in Frame63 for 0.919800
+Task20Job13 executes in Frame64 for 7.561700
+----------------------------------------
+Task20Job14 executes in Frame68 for 0.919800
+Task20Job14 executes in Frame69 for 7.561700
+----------------------------------------
+Task20Job15 executes in Frame73 for 0.919800
+Task20Job15 executes in Frame74 for 7.561700
+----------------------------------------
+Task20Job16 executes in Frame78 for 0.919800
+Task20Job16 executes in Frame79 for 7.561700
+----------------------------------------
+Task20Job17 executes in Frame83 for 0.919800
+Task20Job17 executes in Frame84 for 7.561700
+----------------------------------------
+Task20Job18 executes in Frame88 for 0.919800
+Task20Job18 executes in Frame89 for 7.561700
+----------------------------------------
+Task20Job19 executes in Frame93 for 0.919800
+Task20Job19 executes in Frame94 for 7.561700
+----------------------------------------
+Task20Job20 executes in Frame98 for 0.919800
+Task20Job20 executes in Frame99 for 7.561700
+----------------------------------------
+Task20Job21 executes in Frame103 for 0.919800
+Task20Job21 executes in Frame104 for 7.561700
+----------------------------------------
+Task20Job22 executes in Frame108 for 0.919800
+Task20Job22 executes in Frame109 for 7.561700
+----------------------------------------
+Task20Job23 executes in Frame113 for 0.919800
+Task20Job23 executes in Frame114 for 7.561700
+----------------------------------------
+Task20Job24 executes in Frame118 for 0.919800
+Task20Job24 executes in Frame119 for 7.561700
+----------------------------------------
+Task21Job1 executes in Frame4 for 9.191800
+----------------------------------------
+Task21Job2 executes in Frame9 for 9.191800
+----------------------------------------
+Task21Job3 executes in Frame14 for 9.191800
+----------------------------------------
+Task21Job4 executes in Frame19 for 9.191800
+----------------------------------------
+Task21Job5 executes in Frame24 for 9.191800
+----------------------------------------
+Task21Job6 executes in Frame29 for 9.191800
+----------------------------------------
+Task21Job7 executes in Frame34 for 9.191800
+----------------------------------------
+Task21Job8 executes in Frame39 for 9.191800
+----------------------------------------
+Task21Job9 executes in Frame44 for 9.191800
+----------------------------------------
+Task21Job10 executes in Frame49 for 9.191800
+----------------------------------------
+Task21Job11 executes in Frame54 for 9.191800
+----------------------------------------
+Task21Job12 executes in Frame59 for 9.191800
+----------------------------------------
+Task21Job13 executes in Frame64 for 9.191800
+----------------------------------------
+Task21Job14 executes in Frame69 for 9.191800
+----------------------------------------
+Task21Job15 executes in Frame74 for 9.191800
+----------------------------------------
+Task21Job16 executes in Frame79 for 9.191800
+----------------------------------------
+Task21Job17 executes in Frame84 for 9.191800
+----------------------------------------
+Task21Job18 executes in Frame89 for 9.191800
+----------------------------------------
+Task21Job19 executes in Frame94 for 9.191800
+----------------------------------------
+Task21Job20 executes in Frame99 for 9.191800
+----------------------------------------
+Task21Job21 executes in Frame104 for 9.191800
+----------------------------------------
+Task21Job22 executes in Frame109 for 9.191800
+----------------------------------------
+Task21Job23 executes in Frame114 for 9.191800
+----------------------------------------
+Task21Job24 executes in Frame119 for 9.191800
+----------------------------------------
+Task22Job1 executes in Frame4 for 9.191800
+----------------------------------------
+Task22Job2 executes in Frame9 for 9.191800
+----------------------------------------
+Task22Job3 executes in Frame14 for 9.191800
+----------------------------------------
+Task22Job4 executes in Frame19 for 9.191800
+----------------------------------------
+Task22Job5 executes in Frame24 for 9.191800
+----------------------------------------
+Task22Job6 executes in Frame29 for 9.191800
+----------------------------------------
+Task22Job7 executes in Frame34 for 9.191800
+----------------------------------------
+Task22Job8 executes in Frame39 for 9.191800
+----------------------------------------
+Task22Job9 executes in Frame44 for 9.191800
+----------------------------------------
+Task22Job10 executes in Frame49 for 9.191800
+----------------------------------------
+Task22Job11 executes in Frame54 for 9.191800
+----------------------------------------
+Task22Job12 executes in Frame59 for 9.191800
+----------------------------------------
+Task22Job13 executes in Frame64 for 9.191800
+----------------------------------------
+Task22Job14 executes in Frame69 for 9.191800
+----------------------------------------
+Task22Job15 executes in Frame74 for 9.191800
+----------------------------------------
+Task22Job16 executes in Frame79 for 9.191800
+----------------------------------------
+Task22Job17 executes in Frame84 for 9.191800
+----------------------------------------
+Task22Job18 executes in Frame89 for 9.191800
+----------------------------------------
+Task22Job19 executes in Frame94 for 9.191800
+----------------------------------------
+Task22Job20 executes in Frame99 for 9.191800
+----------------------------------------
+Task22Job21 executes in Frame104 for 9.191800
+----------------------------------------
+Task22Job22 executes in Frame109 for 9.191800
+----------------------------------------
+Task22Job23 executes in Frame114 for 9.191800
+----------------------------------------
+Task22Job24 executes in Frame119 for 9.191800
+----------------------------------------
+Task23Job1 executes in Frame4 for 3.217000
+----------------------------------------
+Task23Job2 executes in Frame9 for 3.217000
+----------------------------------------
+Task23Job3 executes in Frame14 for 3.217000
+----------------------------------------
+Task23Job4 executes in Frame19 for 3.217000
+----------------------------------------
+Task23Job5 executes in Frame24 for 3.217000
+----------------------------------------
+Task23Job6 executes in Frame29 for 3.217000
+----------------------------------------
+Task23Job7 executes in Frame34 for 3.217000
+----------------------------------------
+Task23Job8 executes in Frame39 for 3.217000
+----------------------------------------
+Task23Job9 executes in Frame44 for 3.217000
+----------------------------------------
+Task23Job10 executes in Frame49 for 3.217000
+----------------------------------------
+Task23Job11 executes in Frame54 for 3.217000
+----------------------------------------
+Task23Job12 executes in Frame59 for 3.217000
+----------------------------------------
+Task23Job13 executes in Frame64 for 3.217000
+----------------------------------------
+Task23Job14 executes in Frame69 for 3.217000
+----------------------------------------
+Task23Job15 executes in Frame74 for 3.217000
+----------------------------------------
+Task23Job16 executes in Frame79 for 3.217000
+----------------------------------------
+Task23Job17 executes in Frame84 for 3.217000
+----------------------------------------
+Task23Job18 executes in Frame89 for 3.217000
+----------------------------------------
+Task23Job19 executes in Frame94 for 3.217000
+----------------------------------------
+Task23Job20 executes in Frame99 for 3.217000
+----------------------------------------
+Task23Job21 executes in Frame104 for 3.217000
+----------------------------------------
+Task23Job22 executes in Frame109 for 3.217000
+----------------------------------------
+Task23Job23 executes in Frame114 for 3.217000
+----------------------------------------
+Task23Job24 executes in Frame119 for 3.217000
+----------------------------------------
+Task24Job1 executes in Frame4 for 3.517900
+----------------------------------------
+Task24Job2 executes in Frame9 for 3.517900
+----------------------------------------
+Task24Job3 executes in Frame14 for 3.517900
+----------------------------------------
+Task24Job4 executes in Frame19 for 3.517900
+----------------------------------------
+Task24Job5 executes in Frame24 for 3.517900
+----------------------------------------
+Task24Job6 executes in Frame29 for 3.517900
+----------------------------------------
+Task24Job7 executes in Frame34 for 3.517900
+----------------------------------------
+Task24Job8 executes in Frame39 for 3.517900
+----------------------------------------
+Task24Job9 executes in Frame44 for 3.517900
+----------------------------------------
+Task24Job10 executes in Frame49 for 3.517900
+----------------------------------------
+Task24Job11 executes in Frame54 for 3.517900
+----------------------------------------
+Task24Job12 executes in Frame59 for 3.517900
+----------------------------------------
+Task24Job13 executes in Frame64 for 3.517900
+----------------------------------------
+Task24Job14 executes in Frame69 for 3.517900
+----------------------------------------
+Task24Job15 executes in Frame74 for 3.517900
+----------------------------------------
+Task24Job16 executes in Frame79 for 3.517900
+----------------------------------------
+Task24Job17 executes in Frame84 for 3.517900
+----------------------------------------
+Task24Job18 executes in Frame89 for 3.517900
+----------------------------------------
+Task24Job19 executes in Frame94 for 3.517900
+----------------------------------------
+Task24Job20 executes in Frame99 for 3.517900
+----------------------------------------
+Task24Job21 executes in Frame104 for 3.517900
+----------------------------------------
+Task24Job22 executes in Frame109 for 3.517900
+----------------------------------------
+Task24Job23 executes in Frame114 for 3.517900
+----------------------------------------
+Task24Job24 executes in Frame119 for 3.517900
+----------------------------------------
+Task25Job1 executes in Frame4 for 3.636300
+----------------------------------------
+Task25Job2 executes in Frame9 for 3.636300
+----------------------------------------
+Task25Job3 executes in Frame14 for 3.636300
+----------------------------------------
+Task25Job4 executes in Frame19 for 3.636300
+----------------------------------------
+Task25Job5 executes in Frame24 for 3.636300
+----------------------------------------
+Task25Job6 executes in Frame29 for 3.636300
+----------------------------------------
+Task25Job7 executes in Frame34 for 3.636300
+----------------------------------------
+Task25Job8 executes in Frame39 for 3.636300
+----------------------------------------
+Task25Job9 executes in Frame44 for 3.636300
+----------------------------------------
+Task25Job10 executes in Frame49 for 3.636300
+----------------------------------------
+Task25Job11 executes in Frame54 for 3.636300
+----------------------------------------
+Task25Job12 executes in Frame59 for 3.636300
+----------------------------------------
+Task25Job13 executes in Frame64 for 3.636300
+----------------------------------------
+Task25Job14 executes in Frame69 for 3.636300
+----------------------------------------
+Task25Job15 executes in Frame74 for 3.636300
+----------------------------------------
+Task25Job16 executes in Frame79 for 3.636300
+----------------------------------------
+Task25Job17 executes in Frame84 for 3.636300
+----------------------------------------
+Task25Job18 executes in Frame89 for 3.636300
+----------------------------------------
+Task25Job19 executes in Frame94 for 3.636300
+----------------------------------------
+Task25Job20 executes in Frame99 for 3.636300
+----------------------------------------
+Task25Job21 executes in Frame104 for 3.636300
+----------------------------------------
+Task25Job22 executes in Frame109 for 3.636300
+----------------------------------------
+Task25Job23 executes in Frame114 for 3.636300
+----------------------------------------
+Task25Job24 executes in Frame119 for 3.636300
+----------------------------------------
+Task26Job1 executes in Frame4 for 5.191400
+----------------------------------------
+Task26Job2 executes in Frame9 for 5.191400
+----------------------------------------
+Task26Job3 executes in Frame14 for 5.191400
+----------------------------------------
+Task26Job4 executes in Frame19 for 5.191400
+----------------------------------------
+Task26Job5 executes in Frame24 for 5.191400
+----------------------------------------
+Task26Job6 executes in Frame29 for 5.191400
+----------------------------------------
+Task26Job7 executes in Frame34 for 5.191400
+----------------------------------------
+Task26Job8 executes in Frame39 for 5.191400
+----------------------------------------
+Task26Job9 executes in Frame44 for 5.191400
+----------------------------------------
+Task26Job10 executes in Frame49 for 5.191400
+----------------------------------------
+Task26Job11 executes in Frame54 for 5.191400
+----------------------------------------
+Task26Job12 executes in Frame59 for 5.191400
+----------------------------------------
+Task26Job13 executes in Frame64 for 5.191400
+----------------------------------------
+Task26Job14 executes in Frame69 for 5.191400
+----------------------------------------
+Task26Job15 executes in Frame74 for 5.191400
+----------------------------------------
+Task26Job16 executes in Frame79 for 5.191400
+----------------------------------------
+Task26Job17 executes in Frame84 for 5.191400
+----------------------------------------
+Task26Job18 executes in Frame89 for 5.191400
+----------------------------------------
+Task26Job19 executes in Frame94 for 5.191400
+----------------------------------------
+Task26Job20 executes in Frame99 for 5.191400
+----------------------------------------
+Task26Job21 executes in Frame104 for 5.191400
+----------------------------------------
+Task26Job22 executes in Frame109 for 5.191400
+----------------------------------------
+Task26Job23 executes in Frame114 for 5.191400
+----------------------------------------
+Task26Job24 executes in Frame119 for 5.191400
+----------------------------------------
+Task27Job1 executes in Frame4 for 0.149600
+----------------------------------------
+Task27Job2 executes in Frame9 for 0.149600
+----------------------------------------
+Task27Job3 executes in Frame14 for 0.149600
+----------------------------------------
+Task27Job4 executes in Frame19 for 0.149600
+----------------------------------------
+Task27Job5 executes in Frame24 for 0.149600
+----------------------------------------
+Task27Job6 executes in Frame29 for 0.149600
+----------------------------------------
+Task27Job7 executes in Frame34 for 0.149600
+----------------------------------------
+Task27Job8 executes in Frame39 for 0.149600
+----------------------------------------
+Task27Job9 executes in Frame44 for 0.149600
+----------------------------------------
+Task27Job10 executes in Frame49 for 0.149600
+----------------------------------------
+Task27Job11 executes in Frame54 for 0.149600
+----------------------------------------
+Task27Job12 executes in Frame59 for 0.149600
+----------------------------------------
+Task27Job13 executes in Frame64 for 0.149600
+----------------------------------------
+Task27Job14 executes in Frame69 for 0.149600
+----------------------------------------
+Task27Job15 executes in Frame74 for 0.149600
+----------------------------------------
+Task27Job16 executes in Frame79 for 0.149600
+----------------------------------------
+Task27Job17 executes in Frame84 for 0.149600
+----------------------------------------
+Task27Job18 executes in Frame89 for 0.149600
+----------------------------------------
+Task27Job19 executes in Frame94 for 0.149600
+----------------------------------------
+Task27Job20 executes in Frame99 for 0.149600
+----------------------------------------
+Task27Job21 executes in Frame104 for 0.149600
+----------------------------------------
+Task27Job22 executes in Frame109 for 0.149600
+----------------------------------------
+Task27Job23 executes in Frame114 for 0.149600
+----------------------------------------
+Task27Job24 executes in Frame119 for 0.149600
+----------------------------------------
+Task28Job1 executes in Frame4 for 3.367100
+----------------------------------------
+Task28Job2 executes in Frame14 for 3.367100
+----------------------------------------
+Task28Job3 executes in Frame24 for 3.367100
+----------------------------------------
+Task28Job4 executes in Frame34 for 3.367100
+----------------------------------------
+Task28Job5 executes in Frame44 for 3.367100
+----------------------------------------
+Task28Job6 executes in Frame54 for 3.367100
+----------------------------------------
+Task28Job7 executes in Frame64 for 3.367100
+----------------------------------------
+Task28Job8 executes in Frame74 for 3.367100
+----------------------------------------
+Task28Job9 executes in Frame84 for 3.367100
+----------------------------------------
+Task28Job10 executes in Frame94 for 3.367100
+----------------------------------------
+Task28Job11 executes in Frame104 for 3.367100
+----------------------------------------
+Task28Job12 executes in Frame114 for 3.367100
+----------------------------------------
+Task29Job1 executes in Frame4 for 3.367100
+----------------------------------------
+Task29Job2 executes in Frame14 for 3.367100
+----------------------------------------
+Task29Job3 executes in Frame24 for 3.367100
+----------------------------------------
+Task29Job4 executes in Frame34 for 3.367100
+----------------------------------------
+Task29Job5 executes in Frame44 for 3.367100
+----------------------------------------
+Task29Job6 executes in Frame54 for 3.367100
+----------------------------------------
+Task29Job7 executes in Frame64 for 3.367100
+----------------------------------------
+Task29Job8 executes in Frame74 for 3.367100
+----------------------------------------
+Task29Job9 executes in Frame84 for 3.367100
+----------------------------------------
+Task29Job10 executes in Frame94 for 3.367100
+----------------------------------------
+Task29Job11 executes in Frame104 for 3.367100
+----------------------------------------
+Task29Job12 executes in Frame114 for 3.367100
+----------------------------------------
+Task30Job1 executes in Frame4 for 1.608300
+Task30Job1 executes in Frame5 for 1.758800
+----------------------------------------
+Task30Job2 executes in Frame14 for 1.608300
+Task30Job2 executes in Frame15 for 1.758800
+----------------------------------------
+Task30Job3 executes in Frame24 for 1.608300
+Task30Job3 executes in Frame25 for 1.758800
+----------------------------------------
+Task30Job4 executes in Frame34 for 1.608300
+Task30Job4 executes in Frame35 for 1.758800
+----------------------------------------
+Task30Job5 executes in Frame44 for 1.608300
+Task30Job5 executes in Frame45 for 1.758800
+----------------------------------------
+Task30Job6 executes in Frame54 for 1.608300
+Task30Job6 executes in Frame55 for 1.758800
+----------------------------------------
+Task30Job7 executes in Frame64 for 1.608300
+Task30Job7 executes in Frame65 for 1.758800
+----------------------------------------
+Task30Job8 executes in Frame74 for 1.608300
+Task30Job8 executes in Frame75 for 1.758800
+----------------------------------------
+Task30Job9 executes in Frame84 for 1.608300
+Task30Job9 executes in Frame85 for 1.758800
+----------------------------------------
+Task30Job10 executes in Frame94 for 1.608300
+Task30Job10 executes in Frame95 for 1.758800
+----------------------------------------
+Task30Job11 executes in Frame104 for 1.608300
+Task30Job11 executes in Frame105 for 1.758800
+----------------------------------------
+Task30Job12 executes in Frame114 for 1.608300
+Task30Job12 executes in Frame115 for 1.758800
+----------------------------------------
+Task31Job1 executes in Frame5 for 3.367100
+----------------------------------------
+Task31Job2 executes in Frame15 for 3.367100
+----------------------------------------
+Task31Job3 executes in Frame25 for 3.367100
+----------------------------------------
+Task31Job4 executes in Frame35 for 3.367100
+----------------------------------------
+Task31Job5 executes in Frame45 for 3.367100
+----------------------------------------
+Task31Job6 executes in Frame55 for 3.367100
+----------------------------------------
+Task31Job7 executes in Frame65 for 3.367100
+----------------------------------------
+Task31Job8 executes in Frame75 for 3.367100
+----------------------------------------
+Task31Job9 executes in Frame85 for 3.367100
+----------------------------------------
+Task31Job10 executes in Frame95 for 3.367100
+----------------------------------------
+Task31Job11 executes in Frame105 for 3.367100
+----------------------------------------
+Task31Job12 executes in Frame115 for 3.367100
+----------------------------------------
+Task32Job1 executes in Frame5 for 3.367100
+----------------------------------------
+Task32Job2 executes in Frame15 for 3.367100
+----------------------------------------
+Task32Job3 executes in Frame25 for 3.367100
+----------------------------------------
+Task32Job4 executes in Frame35 for 3.367100
+----------------------------------------
+Task32Job5 executes in Frame45 for 3.367100
+----------------------------------------
+Task32Job6 executes in Frame55 for 3.367100
+----------------------------------------
+Task32Job7 executes in Frame65 for 3.367100
+----------------------------------------
+Task32Job8 executes in Frame75 for 3.367100
+----------------------------------------
+Task32Job9 executes in Frame85 for 3.367100
+----------------------------------------
+Task32Job10 executes in Frame95 for 3.367100
+----------------------------------------
+Task32Job11 executes in Frame105 for 3.367100
+----------------------------------------
+Task32Job12 executes in Frame115 for 3.367100
+----------------------------------------
+Task33Job1 executes in Frame5 for 3.191300
+----------------------------------------
+Task33Job2 executes in Frame45 for 3.191300
+----------------------------------------
+Task33Job3 executes in Frame85 for 3.191300
+----------------------------------------
+Task34Job1 executes in Frame5 for 5.112200
+----------------------------------------
+Task34Job2 executes in Frame45 for 5.112200
+----------------------------------------
+Task34Job3 executes in Frame85 for 5.112200
+----------------------------------------
+Task35Job1 executes in Frame5 for 0.504700
+----------------------------------------
+Task35Job2 executes in Frame45 for 0.504700
+----------------------------------------
+Task35Job3 executes in Frame85 for 0.504700
+----------------------------------------
+Task36Job1 executes in Frame5 for 0.590600
+----------------------------------------
+Task36Job2 executes in Frame45 for 0.590600
+----------------------------------------
+Task36Job3 executes in Frame85 for 0.590600
+----------------------------------------
+Task37Job1 executes in Frame5 for 2.479900
+----------------------------------------
+Task38Job1 executes in Frame5 for 0.199000
+----------------------------------------
+Task39Job1 executes in Frame5 for 0.689800
+----------------------------------------

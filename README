@@ -1,0 +1,10 @@
+Real Time Systems:
+
+INF: 
+1. Iterative Network Flow algorithm to check if a given input set is schedulable or not.
+2. This is a kind of Static Scheduling with no priorities.
+
+Scheduling Algorithms:
+1. EDF - Earliest Deadline First is a dynamic priority driven scheduling algorithm
+2. RM  - Rate Monotonic is a fixed priority driven scheduling algorithm
+3. TDA - Time demand analysis to check if a set is schedulable by RM if U < 1. 
